@@ -1,0 +1,39 @@
+
+body{
+    background-image: url('pretty-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.jumbotron{
+    color: navy !important;
+    background-color: rgba(161, 219, 219, 0.6) !important;
+    
+}
+#first{
+    height: 100px;
+}
+img{
+    height: 100px;
+}
+.mapContainer {
+    height: 500px
+ }
+ 
+ #map {
+    
+    width: 550px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+ 
+ }
+#search{
+    margin-left: 42%;
+}
+#submit{
+    margin-left: 45%;
+}
+h2{
+    text-align: center;
+}
