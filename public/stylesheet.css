@@ -16,12 +16,8 @@ body{
 img{
     height: 100px;
 }
-.mapContainer {
-    height: 500px
- }
- 
+
  #map {
-    
     width: 550px;
     height: 100%;
     margin: 0 auto;
