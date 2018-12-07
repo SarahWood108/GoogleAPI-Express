@@ -7,7 +7,7 @@ body{
 }
 .jumbotron{
     color: navy !important;
-    background-color: rgba(161, 219, 219, 0.6) !important;
+    background-color: rgba(14, 211, 211, 0.4) !important;
     
 }
 #first{
@@ -30,9 +30,11 @@ img{
  }
 #search{
     margin-left: 42%;
+    padding: 10px;
 }
 #submit{
-    margin-left: 45%;
+    margin-left: 46%;
+    padding: 10px;
 }
 h2{
     text-align: center;
